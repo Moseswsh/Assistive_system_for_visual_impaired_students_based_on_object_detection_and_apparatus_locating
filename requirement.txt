@@ -1,0 +1,10 @@
+numpy
+opencv-python
+torch               
+torchvision        
+matplotlib       
+pillow             
+scipy              
+tqdm                
+pyaudio            
+pyttsx3             
